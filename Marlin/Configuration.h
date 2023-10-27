@@ -68,7 +68,7 @@
 // #define hBp_A4988ext
 //
 // -Allegro A4988 on all axis
-// #define hBp_A4988all
+#define hBp_A4988all
 //
 //
 //
@@ -83,7 +83,7 @@
 //
 //
 // If your helloBEEprusa has auto bed leveling please uncomment the following line.
-// #define hBp_Autolevel
+#define hBp_Autolevel
 //
 //
 //
